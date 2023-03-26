@@ -1,3 +1,4 @@
 # odin-project-1
 First Odin Project Repo
-Hello Odin!
+
+Simple recipe website with links to recipes
